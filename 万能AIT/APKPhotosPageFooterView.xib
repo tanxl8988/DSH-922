@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="APKPhotosPageFooterView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="40"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="bb1-pl-uCL">
+                    <rect key="frame" x="177" y="10" width="20" height="20"/>
+                </activityIndicatorView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="t5y-zk-PhL">
+                    <rect key="frame" x="187" y="19.5" width="0.0" height="0.0"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleFootnote"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="bb1-pl-uCL" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="2bN-Zh-d6K"/>
+                <constraint firstItem="t5y-zk-PhL" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="6wM-dq-Bt7"/>
+                <constraint firstItem="t5y-zk-PhL" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Y4F-Ko-aiV"/>
+                <constraint firstItem="bb1-pl-uCL" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="gxX-jF-m5e"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="flower" destination="bb1-pl-uCL" id="jjT-cE-596"/>
+                <outlet property="label" destination="t5y-zk-PhL" id="PML-gt-frX"/>
+            </connections>
+            <point key="canvasLocation" x="24.5" y="-228"/>
+        </view>
+    </objects>
+</document>

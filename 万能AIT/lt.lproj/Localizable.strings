@@ -1,0 +1,95 @@
+/*
+ Localizable.strings
+ 万能AIT
+ 
+ Created by Mac on 17/3/21.
+ Copyright © 2017年 APK. All rights reserved.
+ */
+"摄像机" = "Fotoaparatas";
+"本地" = "Vietinis";
+"DVR" = "DVR";
+"删除%d个文件？" = "Ištrinti failų: %d?";
+"%d个文件删除失败！" = "Nepavykusių: %d ";
+"取消" = "Atšaukti";
+"确定" = "OK";
+"相册" = "Albumas";
+"设置" = "Nustatymai";
+"wifi设置" = "Wifi nustatymai";
+"校准时间" = "Koreguoti laiką";
+"格式化TF卡" = "Formatuoti TF kortelę";
+"录音设置" = "Išjungti mikrofoną";
+"录制时长" = "Video įrašo ilgis";
+"碰撞灵敏度" = "G-Sensor";
+"恢复出厂设置" = "Atstatyti";
+"曝光调整" = "Ekspozicija";
+"自动关屏" = "Ekrano užsklanda";
+"戳记" = "Datos Žyma";
+"日期格式" = "Datos formatas";
+"移动侦测" = "Judesio Aptikimas";
+"15秒" = "15sek";
+"日期+型号" = "Data+Logotipas";
+"日期" = "Data";
+"无" = "IŠJ.";
+"年月日" = "METAI MĖNUO DIENA";
+"月日年" = "MĖNUO DIENA METAI";
+"日月年" = "DIENA MĖNUO METAI";
+"30秒" = "30sek";
+"1分钟" = "1min";
+"3分钟" = "3min";
+"5分钟" = "5min";
+"关闭" = "Išj.";
+"低" = "Prasta";
+"中" = "Vidutinė";
+"高" = "Aukšta";
+"共有%d个文件" = "Failų: %d";
+"未连接DVR" = " DVR Neprisijungia";
+"照片" = "Nuotrauka";
+"视频" = "Vaizdo įrašas";
+"事件" = "Įvykis";
+"选择" = "Pasirinkti";
+"全选" = "Visi";
+"未选择文件" = "Nepasirinktas failas";
+"Wi-Fi名称必须为1-27个非空字符。" = "Wifi pavadinimas turi būti 1-27 simbolių ilgio.";
+"Wi-Fi密码必须为8-32个非空字符。" = "Wifi slaptažodis turi būti 8-32 simbolių ilgio be tarpų";
+"更新" = "Naujinti";
+"修改成功！" = "Pakeitimas sėkmingas!";
+"修改失败！" = "Pakeitimas nepavyko!";
+"摄像机时间将会校准为：" = "Kameros laikas bus nustatytas į:";
+"校准时间失败！" = "Kameros laiko nustatymas nepavyko!";
+"校准时间成功！" = "Kameros laiko nustatymas sėkmingas!";
+"格式化TF卡失败！" = "TF kortelės formatavimas nepavyko!";
+"格式化TF卡成功！" = "TF kortelė suformatuota!";
+"恢复出厂设置失败！" = "Gamyklnių parametrų atstatymas nepavyko!";
+"恢复出厂设置成功！" = "Gamyklinių parametrų atsatatyms sėkmingas!";
+"设置失败！" = "Nustatymas nepavyko!";
+"DVR将会重启Wi-Fi" = "DVR perkraus Wifi";
+"下载" = "Atsisiųsti";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Nuotraukos naudojamos išsaugoti ir pasidalinti nuotraukom ir video.";
+"设备拍照成功！" = "Įrenginio kamera veikia!";
+"设备拍照失败！" = "Įrenginio kameros klaida!";
+"帮助" = "Pagalba";
+"关于" = "Apie";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Patikrinkite ar įrenginys prisijugęs prie Wifi ir ar įjungtas filmavimo rėžimas.\n(Numatytasis prieigos taškas \"Apical DVR\" su slaptažodžiu \"1234567890\")";
+"保存失败！" = "Įrašymas nepavyko!";
+"问题1" = "1. Ką daryti užstrigus DVR sistemai?";
+"答案1" = "（1）Paspauskite Reset tam, kad perkrauti įrenginį\n（2）Galimai pažeista SD kortelė arba jos greitis neatitinka 10 klasės.";
+"问题2" = "2. Ką daryti jei DVR neįsijungia?";
+"答案2" = "(1) Patikrinkite ar įjungtas maitinimas. \n(2) Patikrinkite ar įdėta SD kortelė. \n(3) Patikrinkite ar įjungtas įrenginys. \n(4) Paspauskite Reset.";
+"问题3" = "3. Video įrašas kompiuteryje praleidinėja kadrus?";
+"答案3" = "(1)Suformatuokite TF kortelę ir pakartokite įrašymą. \n(2) Pakeiskite TF kortelę į 10 klasės";
+"问题4" = "4. Netikslus ar neryškus vaizdo įrašas? ";
+"答案4" = "Nuvalykite objektyvą.";
+"问题5" = "5. Užstrigo video atkūrimas kompiuteryje?";
+"答案5" = "(1) Pakeiskite video grotuvą, kad galėtumėte paleisti failą. \n(2) Pakeiskite TF kortelę į greitesnę.";
+"问题6" = "6. Video įrašymas tesiasi kelias sekundes, sustoja ir pradėda įrašinėti iš naujo?";
+"答案6" = "Patikrinkite ar įjungta judesio aptikimo funcija.";
+"问题7" = "7. Kodėl neprisijungia wifi?";
+"答案7" = "(1) Patikrinkite mobilaus įrenginio nustatymus.\n(2) Patikrinkite ar kameroje įjungta Wifi funkcija? \n(3) Jei abu viršutiniai punktai patenkiti, perkraukite įrenginį";
+"加载视频失败！" = "Video įkėlimas nesėkmingas!";
+"该视频不可播放！" = "Neįmanoma paleisti video!";
+
+//雄风
+"翻转" = "Apsukti 180°";
+"视频模式" = "Режим видео";
+"型号" = "Logo";

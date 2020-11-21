@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "48z-CV-GhN"; */
+"48z-CV-GhN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "73S-Ts-JzJ"; */
+"73S-Ts-JzJ.text" = "Label";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "7Qm-yK-hQu"; */
+"7Qm-yK-hQu.text" = "0:00";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "7Sw-pO-sX8"; */
+"7Sw-pO-sX8.text" = "0:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7hW-AD-oTp"; */
+"7hW-AD-oTp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "89C-n7-qaD"; */
+"89C-n7-qaD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AtD-eJ-2do"; */
+"AtD-eJ-2do.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FtE-Z9-QF4"; */
+"FtE-Z9-QF4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gro-Nb-xHB"; */
+"Gro-Nb-xHB.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "I5i-iv-pby"; */
+"I5i-iv-pby.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I6H-A7-6pW"; */
+"I6H-A7-6pW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IL4-QO-HAq"; */
+"IL4-QO-HAq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LTL-gC-C8p"; */
+"LTL-gC-C8p.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MKh-rd-laG"; */
+"MKh-rd-laG.text" = "Label";
+
+/* Class = "UILabel"; text = "Copyright (c) 2006-2017"; ObjectID = "OV7-MX-xSb"; */
+"OV7-MX-xSb.text" = "Copyright (c) 2006-2017";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "OxA-am-xEE"; */
+"OxA-am-xEE.title" = "Item";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "P3i-fg-FTP"; */
+"P3i-fg-FTP.text" = "0:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PIG-7s-R8J"; */
+"PIG-7s-R8J.text" = "Label";
+
+/* Class = "UIViewController"; title = "关于"; ObjectID = "Qkp-rM-VrI"; */
+"Qkp-rM-VrI.title" = "关于";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V5C-7d-JbY"; */
+"V5C-7d-JbY.text" = "Label";
+
+/* Class = "UISegmentedControl"; Vp4-Xq-jBW.segmentTitles[0] = "First"; ObjectID = "Vp4-Xq-jBW"; */
+"Vp4-Xq-jBW.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; Vp4-Xq-jBW.segmentTitles[1] = "Second"; ObjectID = "Vp4-Xq-jBW"; */
+"Vp4-Xq-jBW.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WZy-ps-nc7"; */
+"WZy-ps-nc7.text" = "Label";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "a5B-bd-rS5"; */
+"a5B-bd-rS5.text" = "0:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ca9-Po-tU7"; */
+"ca9-Po-tU7.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "关于"; ObjectID = "jeZ-vV-Xh0"; */
+"jeZ-vV-Xh0.title" = "关于";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kyv-1I-Ogm"; */
+"kyv-1I-Ogm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnL-Kt-mvC"; */
+"lnL-Kt-mvC.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mT4-34-Hiv"; */
+"mT4-34-Hiv.text" = "Label";
+
+/* Class = "UILabel"; text = "APICAL CO., LTD. All rights reserved."; ObjectID = "nuR-A3-EB4"; */
+"nuR-A3-EB4.text" = "APICAL CO., LTD. All rights reserved.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rPM-6p-Sdo"; */
+"rPM-6p-Sdo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "s4M-wk-SXh"; */
+"s4M-wk-SXh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sFS-EA-0zt"; */
+"sFS-EA-0zt.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "帮助"; ObjectID = "sJL-F8-Ba9"; */
+"sJL-F8-Ba9.title" = "帮助";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ssF-Yf-FLd"; */
+"ssF-Yf-FLd.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u2X-LM-xHq"; */
+"u2X-LM-xHq.text" = "Label";
+
+/* Class = "UISegmentedControl"; z9G-bY-Kvt.segmentTitles[0] = "First"; ObjectID = "z9G-bY-Kvt"; */
+"z9G-bY-Kvt.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; z9G-bY-Kvt.segmentTitles[1] = "Second"; ObjectID = "z9G-bY-Kvt"; */
+"z9G-bY-Kvt.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zjN-QO-MW7"; */
+"zjN-QO-MW7.text" = "Label";

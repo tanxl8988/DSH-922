@@ -1,0 +1,98 @@
+/*
+ Localizable.strings
+ 万能AIT
+ 
+ Created by Mac on 17/3/21.
+ Copyright © 2017年 APK. All rights reserved.
+ */
+"摄像机" = "Kamera";
+"本地" = "Lokālais";
+"DVR" = "DVR";
+"删除%d个文件？" = "Dzēst failus: %d?";
+"%d个文件删除失败！" = "Kļūdu: %d";
+"取消" = "Atcelt";
+"确定" = "OK";
+"相册" = "Albums";
+"设置" = "Iestatījumi";
+"wifi设置" = "WiFi iestatījumi";
+"校准时间" = "Pielāgot laiku";
+"格式化TF卡" = "Formatēt TF karti";
+"录音设置" = "Izslēgt mikrofonu";
+"录制时长" = "Video ierakstīšanas garums";
+"碰撞灵敏度" = "G-sensors";
+"恢复出厂设置" = "Atiestatīt";
+"曝光调整" = "Ekspozīcija";
+"自动关屏" = "Ekrānsaudzētājs";
+"戳记" = "Datuma zīmogs";
+"日期格式" = "Datuma formāts";
+"移动侦测" = "Kustības detektors";
+"15秒" = "15sek";
+"日期+型号" = "Datums+Logo";
+"日期" = "Datums";
+"无" = "Izslēgts";
+"年月日" = "GGGG MM DD";
+"月日年" = "MM DD GGGG";
+"日月年" = "DD MM GGGG";
+"30秒" = "30sek";
+"1分钟" = "1 minūte";
+"3分钟" = "3 minūtes";
+"5分钟" = "5 minūtes";
+"关闭" = "Izsl.";
+"低" = "Zems";
+"中" = "Vidējs";
+"高" = "Augsts";
+"共有%d个文件" = "Failu: %d";
+"未连接DVR" = "Nepievieno DVR";
+"照片" = "Foto";
+"视频" = "Video";
+"事件" = "Notikums";
+"选择" = "Izvēlēties";
+"全选" = "Visi";
+"未选择文件" = "Nav izvēlēts neviens fails";
+"Wi-Fi名称必须为1-27个非空字符。" = "Wi-Fi nosaukumam jābūt 1-27 rakstzīmēm.";
+"Wi-Fi密码必须为8-32个非空字符。" = "Wi-Fi parolei jābūt 8-32 rakstzīmēm";
+"更新" = "Atjaunot";
+"修改成功！" = "Modificēšana ir veiksmīga!";
+"修改失败！" = "Modificēšana neizdevās!";
+"摄像机时间将会校准为：" = "Kameras laiks tiks iestatīts uz:";
+"校准时间失败！" = "Iestatīt kameras laika kļūdi!";
+"校准时间成功！" = "Iestatīt kameras laika veiksmi!";
+"格式化TF卡失败！" = "TF kartes formatēšana neizdevās!";
+"格式化TF卡成功！" = "TF kartes formatēšana veiksmīga! ";
+"恢复出厂设置失败！" = "Atiestatīt līdz sakotnējiem iestatījumiem neizdevās!";
+"恢复出厂设置成功！" = "Iestatījumu atiestatīšana ir veiksmīga!";
+"设置失败！" = "Iestatīšana neizdevās!";
+"DVR将会重启Wi-Fi" = "DVR restartēs Wi-Fi";
+"下载" = "Lejupielādēt";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Foto tiek izmantoti, lai saglabātu un koplietotu foto un video.";
+"设备拍照成功！" = "Ierīces kamera darbojas!";
+"设备拍照失败！" = "Ierīces kameras kļūda!";
+"帮助" = "Palīdzība";
+"关于" = "Par";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Pārliecinieties, vai ir WiFi savienojums vai ierīce atrodas ierakstīšanas režīmā.\n(Noklusētais piekļuves punkts \"Apical DVR\" ar paroli \"1234567890\")";
+"保存失败！" = "Saglabāt failu!";
+"问题1" = "1. Ko darīt, ja DVR sistēma nedarbojas?";
+"答案1" = "(1) Nospiediet Atiestatīt, lai restartētu.\n(2) Neatkarīgi no tā, vai SD karte ir bojāta vai nav, vai kartes klase atbilst 10. klasei.";
+"问题2" = "2. Ko darīt, ja DVR neizdevās ieslēgt?";
+"答案2" = "(1) Pārbaudiet elektroenerģijas padeves savienojumu. \n(2) Pārbaudiet, vai SD karte ievietota.  \n(3) Pārbaudiet, vai barošanas poga ir nospiesta.  \n(4) Nospiediet atiestatīšanu.";
+"问题3" = "3. Video atskaņošana datorā apstājas vai pazūd video gabali?";
+"答案3" = "(1) Formatēt TF karti un atkārtot ierakstu. \n(2) mainīt TF karti ar 10. klases TF karti;";
+"问题4" = "4. Video ierakstīšana nav skaidra vai pilnīga izplūduša?";
+"答案4" = "Notīriet objektīvu";
+"问题5" = "5. Video atskaņošana datorā apstājas un neturpināsies?";
+"答案5" = "(1) Nomainiet video atskaņotājs.  \n(2) Nomainiet TF karti ar citu atrāku";
+"问题6" = "6. DVR video ieraksts netiek turpināts, ierakstā dažās sekundēs un apstājieties, tad atkal sāc ierakstīt?";
+"答案6" = "Pārbaudiet, vai darbojās kustības noteikšanas funkcija. Aizveriet to un mēģiniet vēlreiz.";
+"问题7" = "7. Kādēļ Wi-Fi nevar izveidot savienojumu?";
+"答案7" = "(1) Pārbaudiet mobilā tālruņa iestatījumus. \n(2) Pārbaudiet, vai DVR WiFi ir ieslēgts?  \n(3) Ja visi no iepriekšminētā ir pabeigti, lūdzu, atiestatītu ierīci";
+"加载视频失败！" = "Neizdevās ielādēt video!";
+"该视频不可播放！" = "Video nav atskaņojams!";
+
+//雄风
+"翻转" = "Pagriezts par 180°";
+"视频模式" = "Video režimas";
+"型号" = "Logo";
+
+
+

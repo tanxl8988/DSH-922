@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  万能AIT
+
+  Created by Mac on 17/3/21.
+  Copyright © 2017年 APK. All rights reserved.
+*/
+"摄像机" = "Fotoaparát";
+"本地" = "Miestne";
+"DVR" = "DVR";
+"删除%d个文件？" = "Vymazať súbory: %d?";
+"%d个文件删除失败！" = "Chyby: %d";
+"取消" = "Zrušiť";
+"确定" = "OK";
+"相册" = "Album";
+"设置" = "Nastavenia";
+"wifi设置" = "Nastavenie WIFI";
+"校准时间" = "Upraviť čas";
+"格式化TF卡" = "Formátovať TF Kartu";
+"录音设置" = "Vypnúť mikrofón";
+"录制时长" = "Nahrávanie dĺžky videa";
+"碰撞灵敏度" = "G-Senzor";
+"恢复出厂设置" = "Reštart";
+
+"曝光调整" = "Expozície";
+"自动关屏" = "Šetrič obrazovky";
+"戳记" = "Pečiatka s dátumom";
+"日期格式" = "Formát dátumu";
+"移动侦测" = "Rozpoznanie pohybu";
+"15秒" = "15sek";
+"日期+型号" = "Dátum+Logo";
+"日期" = "Dátum";
+"无" = "OFF";
+"年月日" = "RRRR MM DD";
+"月日年" = "MM DD RRRR";
+"日月年" = "DD MM RRRR";
+
+"30秒" = "30sek";
+"1分钟" = "1min";
+"3分钟" = "3min";
+"5分钟" = "5min";
+"关闭" = "Vyp.";
+"低" = "Nízke";
+"中" = "Stredné";
+"高" = "Vysoká";
+"共有%d个文件" = "Súbory: %d";
+"未连接DVR" = "DVR nepripojené";
+"照片" = "Fotka";
+"视频" = "Video";
+"事件" = "Udalosť";
+"选择" = "Vybrať";
+"全选" = "Všetko";
+"未选择文件" = "Nebol vybraný žiadny súbor";
+"Wi-Fi名称必须为1-27个非空字符。" = "Wifi meno musí byť 1-27 neprázdnych znakov.";
+"Wi-Fi密码必须为8-32个非空字符。" = "Heslo Wifi musí mať 8 až 32 neprázdnych znakov";
+"更新" = "Aktualizovať";
+"修改成功！" = "Úspešná modifikácia!";
+"修改失败！" = "Chybná modifikácia!";
+"摄像机时间将会校准为：" = "Čas kamery bude nastavený na:";
+"校准时间失败！" = "Nastaviť časovú chybu fotoaparátu!";
+"校准时间成功！" = "Nastavenie časovača kamery prebehlo úspešne!";
+"格式化TF卡失败！" = "Formátovanie TF Karty zlyhalo!";
+"格式化TF卡成功！" = "Formátovanie TF Karty prebehlo úspešne! ";
+"恢复出厂设置失败！" = "Obnovenie továrenských nastavení zlyhalo! ";
+"恢复出厂设置成功！" = "Obnovenie továrenských nastavení prebehlo úspešne! ";
+"设置失败！" = "Nastaviť chybovosť!";
+"DVR将会重启Wi-Fi" = "Pre úspešné pripojenie, zmeňte nastavenia mobilného zariadenia.";
+"下载" = "Sťahovanie";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Fotografie sa používajú na ukladanie a zdieľanie fotografií a videí.";
+
+
+//new
+"设备拍照成功！" = "Kamera úspešná!";
+"设备拍照失败！" = "Chybná kamera!";
+"帮助" = "Nápoveda";
+"关于" = "O službe";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Ujistite sa , či je pripojená WIFI alebo či je pripojený rekordér do režimu nahrávania.\n(Predvolené miesto prístupu «Apical DVR» z geslom «1234567890»)";
+"保存失败！" = "Ukladanie zlyhalo! ";
+"问题1" = "1. Ako postupovať, keď sa DVR systém zastavil? ";
+"答案1" = "（1）Stlačte reset pre reštartovanie\n（2）Či je SD Karta zničená alebo nie alebo či trieda karty zodpovedá triede 10";
+"问题2" = "2. Čo robiť, keď sa DVR nedá zapnúť?";
+"答案2" = "（1）Skontrolujte pripojenie napájacieho zdroja ok alebo nie\n（2）Skontrolujte, či  je vložená karta alebo nie\n（3）Skontrolujte, či je vypínač stlačený dole alebo nie\n（4）Stlačte  reset";
+"问题3" = "3.Prehrávanie videa na počítači zobrazí  stop alebo preskočenie rámčeka?";
+"答案3" = "（1）Formátujte SD kartu a opakujte nahrávanie\n（2）Zmeňte TF kartu na TF kartu triedy 10";
+"问题4" = "4. Video nahrávanie nie je čisté alebo úplne jasné? ";
+"答案4" = "Vyčistite";
+"问题5" = "5.Prehrávanie videa na počítači uviazlo alebo nepokračuje?";
+"答案5" = "（1）Najskôr odporúčame zmeniť prehrávač, ktorý chcete prehrať \n（2）Zmeniť vysokorýchlostnú TF Kartu";
+"问题6" = "6.DVR nahrávanie videa nepokračuje, nahrávajte pár sekúnd a zastavte video, potom začnite nahrávať znova?";
+"答案6" = "Skontrolujte, či je otvorená funkcia detekcie pohybu, zatvorte ju prosím a skúste to znova";
+"问题7" = "7. Prečo sa WIFI nemôže pripojiť? ";
+"答案7" = "（1）Skontrolujte nastavenia mobilného telefónu\n（2）Skontrolujte, ši je zapnutá DVR WIFI\n（3）Ak je všetko urobené, prosím resetujte zariadenie.";
+
+"加载视频失败！" = "Nahrávanie videa zlyhalo!";
+"该视频不可播放！" = "Video nie je možné prehrať!";
+
+//雄风
+"翻转" = "Otočiť o 180°";
+"视频模式" = "Režim videa";
+"型号" = "Logo";
+

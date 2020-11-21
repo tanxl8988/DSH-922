@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  万能AIT
+
+  Created by Mac on 17/3/21.
+  Copyright © 2017年 APK. All rights reserved.
+*/
+"摄像机" = "Camera";
+"本地" = "Local";
+"DVR" = "DVR";
+"删除%d个文件？" = "Delete %d files？";
+"%d个文件删除失败！" = "%d failures";
+"取消" = "Cancel";
+"确定" = "OK";
+"相册" = "Album";
+"设置" = "Settings";
+"wifi设置" = "WIFI Settings";
+"校准时间" = "Adjust Time";
+"格式化SD卡" = "Format SD Card";
+"录音设置" = "Microphone";
+"录制时长" = "Loop Recording";
+"碰撞灵敏度" = "G-Sensor";
+"恢复出厂设置" = "Factory Settings";
+
+"曝光调整" = "Exposure";
+"自动关屏" = "LCD Power Save";
+"戳记" = "Date Stamp";
+"日期格式" = "Date Format" ;
+"移动侦测" = "Motion Detection";
+"15秒" = "15sec";
+"日期+型号" = "Date+Logo";
+"日期" = "Date";
+"无" = "OFF";
+"年月日" = "YYYY MM DD";
+"月日年" = "MM DD YYYY";
+"日月年" = "DD MM YYYY";
+
+"30秒" = "30sec";
+"1分钟" = "1 min";
+"3分钟" = "3 mins";
+"5分钟" = "5 mins";
+"关闭" = "Off";
+"低" = "Low";
+"中" = "Mid";
+"高" = "High";
+"共有%d个文件" = "%d files";
+"未连接DVR" = "Not connecting the DVR";
+"照片" = "Photo";
+"视频" = "Video";
+"事件" = "Emergency";
+"选择" = "Select";
+"全选" = "All";
+"未选择文件" = "No file selected";
+"Wi-Fi名称必须为1-27个非空字符。" = "Wi-Fi name must be 1-27 non empty characters.";
+"Wi-Fi密码必须为8-32个非空字符。" = "Wi-Fi password must be 8-32 non empty characters";
+"更新" = "Update";
+"修改成功！" = "Modify success!";
+"修改失败！" = "Modify failure!";
+"摄像机时间将会校准为：" = "Camera time will be set to:";
+"校准时间失败！" = "Set camera time failure!";
+"校准时间成功！" = "The time on the recorder is synchronized!";
+"格式化SD卡失败！" = "Format SD Card failure!";
+"格式化SD卡成功！" = "Format SD Card success!";
+"恢复出厂设置失败！" = "Factory reset failure!";
+"恢复出厂设置成功！" = "Factory reset success!";
+"设置失败！" = "Set failure!";
+"设置成功" = "Setting Saved!";
+
+"DVR将会重启Wi-Fi" = "For successful connection change settings in your mobile device";
+"下载" = "Download";
+"该视频已下载" = "The file has been downloaded";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Photos is used to save and share photos and videos.";
+
+//new
+"设备拍照成功！" = "Picture Taken!";
+"设备拍照失败！" = "Device camera failure!";
+"帮助" = "Help";
+"关于" = "About DVR";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Please ensure Dash Camera's WIFI is On and your mobile is connected to the Dash Camera's WIFI.WIFI Name:DSH-922 and default password is 12345678";
+"保存失败！" = "Save fail!";
+"问题1" = "Q1: My DVR is not recording after inserting SD Card";
+"答案1" = "Format the SD card by using the setting section on this app. After successful formatting your DVR will start recording";
+"问题2" = "Q2: Settings are not getting saved after Power On-OFF";
+"答案2" = "Update the firmware of your DVR by downloading and following the steps mentioned on the official Dashmate website";
+"问题3" = "Q3: My dash cam mount or power adaptor has failed?";
+"答案3" = "   In the event of any accessory failing due to manufacturing defect during the warranty period or should you require a replacement accessory, please contact the Dashmate support team at service@directed.com.au.";
+"问题4" = "Q4: My dash cam alerts a SD card read error message?";
+"答案4" = "To ensure seamless operation of your Dashmate dash cam, we strongly recommend that you refer to your owners manual under specifications to which Micro SD is required. As a minimum it should be a class 10 standard, in 32GB and Max 128GB brand from a well-known manufacture and also cards which contain a multi-layer NAND Type . All models also have a maximum capacity limit support.";
+"问题5" = "Q5: My dash cam alerts a card full message?";
+"答案5" = "The inbuilt G-Sensor function can be utilised and triggered to record events when your vehicle is parked and powered off. When the camera detects motion or any shock movement it will record a short write protected file which cannot be deleted by the loop record function. Periodically it would be recommended to manually format the Micro SD card as it will release occupied protected data.";
+"问题6" = "Q6: My dash cam battery will run out of power when in use?";
+"答案6" = "When intending to use the dash cam for recording whilst driving, the device must be plugged into its designated power adaptor provided. The inbuilt battery provides the camera with reserve power so to retain memory and date / time settings.";
+"问题7" = "Q7: My dash cam seems to freeze during operation?";
+"答案7" = "Majority of operation function freeze can be related back to using the incorrect Micro SD used or defective flash memory. To check this concern Dashmate suggest trying another compatible card for recovery.";
+"问题8" = "Q8. My Dashcam WIFI cannot be connected to?";
+"答案8" = "Ensure Dashcam’s WIFI is On, It gives voice alert to inform the WIFI On/Off Status . WIFI can be turned On-off by short pressing the Power On button on front camera.
+
+On your smart device download the DSH-922 App from the Google Play store if you are using an Android device, or the iOS App store if you are using an iPhone.
+
+Power up the DSH-922 and allow less than 2 minutes for the WIFI connection to start.
+
+Please format the SD card before using.
+
+Once the App is downloaded and installed on your phone and the Dash Cam is powered up, open your phones WIFI settings and connect to the wireless connection named DSH-922.
+
+When prompted enter the password 12345678
+WIFI Name: DSH-922
+Password: 12345678";
+
+"加载视频失败！" = "Load video failed!";
+"该视频不可播放！" = "The video is not playable!";
+
+//雄风
+"翻转" = "Flip to 180";
+"视频模式" = "Video Mode";
+"型号" = "Logo";
+
+"前置" = "Front";
+"后置" = "Rear";
+"编号-数值" = "";
+"成功" = "Success";
+"失败" = "Fail";
+"定位" = "Location";
+"版本" = "Version";
+"个数" = "Number";
+"检测SD卡失败" = "Checked SD card failure";
+"音量" = "Volume";
+"超速提醒" = "Speed Limit Alert";
+"电子狗" = "Speed Camera Alerts";
+"停车监控" = "Parking Model";
+"关" = "OFF";
+"开" = "ON";
+
+"硬件升级提示" = "An updated version of the firmware is available,Please open the Dashmate website on your Computer and download the update.";
+"忽略" = "Ignore";
+"确认" = "Confirm";
+

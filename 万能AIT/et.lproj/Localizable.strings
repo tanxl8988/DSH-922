@@ -1,0 +1,100 @@
+/* 
+  Localizable.strings
+  万能AIT
+
+  Created by Mac on 17/3/21.
+  Copyright © 2017年 APK. All rights reserved.
+*/
+"摄像机" = "Kaamera";
+"本地" = "Kohalik";
+"DVR" = "DVR";
+"删除%d个文件？" = "Kustuta  faili: %d?";
+"%d个文件删除失败！" = "Viga: %d";
+"取消" = "Tühista";
+"确定" = "OK";
+"相册" = "Album";
+"设置" = "Sätted";
+"wifi设置" = "Wifi sätted";
+"校准时间" = "Aja kohandamine";
+"格式化TF卡" = "Vorminda mälukaart";
+"录音设置" = "Mikrofon välja";
+"录制时长" = "Videolõigu kestvus";
+"碰撞灵敏度" = "G-sensori tundlikkus";
+"恢复出厂设置" = "Lähtesta";
+
+"曝光调整" = "Säritus";
+"自动关屏" = "Ekraanisäästja";
+"戳记" = "Kuupäev ekraanil";
+"日期格式" = "Kuupäeva vorming" ;
+"移动侦测" = "Liikumise tuvastamine";
+"15秒" = "15sek";
+"日期+型号" = "Kuupäev+Logo";
+"日期" = "Kuupäev";
+"无" = "Väljas";
+"年月日" = "AAAA KK PP";
+"月日年" = "KK PP AAAA";
+"日月年" = "PP KK AAAA";
+
+"30秒" = "30sek";
+"1分钟" = "1min";
+"3分钟" = "3min";
+"5分钟" = "5min";
+"关闭" = "Välj.";
+"低" = "Madal";
+"中" = "Keskmine";
+"高" = "Kõrge";
+"共有%d个文件" = "Faili:%d";
+"未连接DVR" = "Ühendus seadmega puudub";
+"照片" = "Foto";
+"视频" = "Video";
+"事件" = "Sündmus";
+"选择" = "Vali";
+"全选" = "Kõik";
+"未选择文件" = "Faili pole valitud";
+"Wi-Fi名称必须为1-27个非空字符。" = "WiFi imetus võib olla kuni 27 tähemärki.";
+"Wi-Fi密码必须为8-32个非空字符。" = "WiFi parool võib olla 8-32 tähemärki";
+"更新" = "Uuenda";
+"修改成功！" = "Toiming õnnestus!";
+"修改失败！" = "Toiming ebaõnnestus!";
+"摄像机时间将会校准为：" = "Kaamera aeg:";
+"校准时间失败！" = "Aja seadmine ebaõnnestus!";
+"校准时间成功！" = "Salvestaja kellaaeg on sünkroniseeritud!";
+"格式化TF卡失败！" = "Formateeri mälukaart!";
+"格式化TF卡成功！" = "Mälukaart vormindatud!";
+"恢复出厂设置失败！" = "Algseadistus ebaõnnestus!";
+"恢复出厂设置成功！" = "Algseadistus taastatud!";
+"设置失败！" = "Tekkis viga!";
+"DVR将会重启Wi-Fi" = "Ühenduse loomiseks pead muutma oma mobiilseadme seadistusi";
+"下载" = "Allalaadimine";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Fotode ja videofailide salvestamine ning jagamine.";
+
+//new
+"设备拍照成功！" = "Toiming õnnestus!";
+"设备拍照失败！" = "Toiming ebaõnnestus!";
+"帮助" = "Abi";
+"关于" = "Teave";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Kontrolli WiFi ühenduse olemasolu ja seda, kas kaamera on salvestusrezhiimis.\n(Vaikimisi pöörduspunkt Apical DVR-le parooliga «1234567890»)";
+"保存失败！" = "Salvestamine ebaõnnestus!";
+"问题1" = "1. Mida teha seadme töö seiskumisel?";
+"答案1" = "(1) Taaskäivitamiseks vajuta nuppu RESET\n(2) Mälukaart on probleemne või liiga aeglane";
+"问题2" = "2. Mida teha, kui seade ei lülitu sisse?";
+"答案2" = "（1）Kontrolli ühendust toiteallikaga\n（2）Kontrolli, kas kaart on seadmes\n（3）Kontrolli sisselülitamise nupu asendit\n（4）Vajuta RESET";
+"问题3" = "3. Video taasesitus arvutis peatub või jätab kaadreid vahele?";
+"答案3" = "(1) Formateeri mälukaart ja salvesta uuesti. \n(2) Asenda mälukaart Class10 mälukaardiga";
+"问题4" = "4. Videosalvestis udune?";
+"答案4" = "Puhasta lääts pehme lapiga";
+"问题5" = "5. Video vaatamine arvutis seiskub?";
+"答案5" = "（1）Võimalusel proovi vaatamiseks ka teist programmi \n（2）kasuta kontrollimiseks teist kiiret mälukaarti";
+"问题6" = "6. Videosalvestus katkendlik - salvestab mõned sekundid ja siis alustab uuesti?";
+"答案6" = "(1) Kontrolli liikumistuvastuse staatust – kui see töötab, siis lülita see välja ja proovi uuesti.\n (2) Kontrolli ja formateeri mälukaart või asenda Class10 mälukaardiga";
+"问题7" = "7. Puudub ühendus WiFi võrguga?";
+"答案7" = "(1) Kontrolli mobiiltelefoni seadistust.\n (2) Kontolli, kas DVR WiFI on sisse lülitatud?\n (3) Kui eelnevad toimingud tehtud, vajuta RESET";
+
+"加载视频失败！" = "Faili laadimine ebaõnnestus!";
+"该视频不可播放！" = "Seda faili ei saa esitada!";
+
+//雄风
+"翻转" = "Keerata 180°";
+"视频模式" = "Videorežiim";
+"型号" = "Logo";

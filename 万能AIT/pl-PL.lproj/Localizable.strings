@@ -1,0 +1,102 @@
+/*
+ Localizable.strings
+ 万能AIT
+ 
+ Created by Mac on 17/3/21.
+ Copyright © 2017年 APK. All rights reserved.
+ */
+"摄像机" = "Aparat";
+"本地" = "Lokalne";
+"DVR" = "DVR";
+"删除%d个文件？" = "Skasować %d plików?";
+"%d个文件删除失败！" = "%d błędów!";
+"取消" = "Anuluj";
+"确定" = "OK";
+"相册" = "Album";
+"设置" = "Ustawienia";
+"wifi设置" = "Ustawienia Wifi";
+"校准时间" = "Dostosowanie czasu";
+"格式化TF卡" = "Formatowanie karty TF";
+"录音设置" = "Wyłączyć mikrofon";
+"录制时长" = "Czas nagrania video";
+"碰撞灵敏度" = "Czułość G-sensora";
+"恢复出厂设置" = "Resetuj";
+
+"曝光调整" = "Ekspozycja";
+"自动关屏" = "Wygaszacz ekranu";
+"戳记" = "Data";
+"日期格式" = "Format daty";
+"移动侦测" = "Wykrywanie ruchu";
+"15秒" = "15 sek.";
+"日期+型号" = "Data+Logo";
+"日期" = "Data";
+"无" = "Wył.";
+"年月日" = "RRRR MM DD";
+"月日年" = "MM DD RRRR";
+"日月年" = "DD MM RRRR";
+
+"30秒" = "30 sek.";
+"1分钟" = "1 min.";
+"3分钟" = "3 min.";
+"5分钟" = "5 min.";
+"关闭" = "Wył.";
+"低" = "Niski";
+"中" = "Średni";
+"高" = "Wysoki";
+"共有%d个文件" = "%d plików";
+"未连接DVR" = "brak połączenia z DVR";
+"照片" = "Zdjęcie";
+"视频" = "Film";
+"事件" = "Wydarzenie";
+"选择" = "Wybierz";
+"全选" = "Zdarzenie";
+"未选择文件" = "Nie wybrano żadnego pliku";
+"Wi-Fi名称必须为1-27个非空字符。" = "Nazwa WiFI musi zawierać 1-27 znaków (nie specjalnych)";
+"Wi-Fi密码必须为8-32个非空字符。" = "Hasło WiFi musi zawierać 8-32 znaki (nie specjalne)";
+"更新" = "Aktualizuj";
+"修改成功！" = "Zmodyfikowano!";
+"修改失败！" = "Błąd modyfikacji!";
+"摄像机时间将会校准为：" = "Czas aparatu będzie ustawiony na:";
+"校准时间失败！" = "Błąd ustawienia czasu aparatu!";
+"校准时间成功！" = "Ustawiono czas aparatu!";
+"格式化TF卡失败！" = "Błąd formatowania karty TF!";
+"格式化TF卡成功！" = "Sformatowano kartę TF!";
+"恢复出厂设置失败！" = "Błąd przywrócenia ustawień fabrycznych!";
+"恢复出厂设置成功！" = "Przywrócono ustawienia fabryczne!";
+"设置失败！" = "Błąd ustawień!";
+"DVR将会重启Wi-Fi" = "DVR zrestartuje WiFi";
+"下载" = "Pobrane";
+"请允许访问iPhone的\"照片\"，否则无法使用下载功能！" = "Zdjęcia są używane do zapisywania i udostępniania zdjęć i filmów wideo.";
+
+
+//new
+"设备拍照成功！" = "Sukces aparat!";
+"设备拍照失败！" = "Błąd aparatu!";
+"帮助" = "Pomoc";
+"关于" = "Informacje";
+"Road Cam" = "Road Cam";
+"未连接摄像机提示信息" = "Upewnij się czy WiFi lub rejestrator jest podłączony. \n(Domyślny punkt dostępu \"Apical\" z hasłem \"1234567890\")";
+"保存失败！" = "Zapis nieudany!";
+"问题1" = "1. Co zrobić gdy zawiesił się system DVR?";
+"答案1" = "(1) Naciśnij Reset \n(2) Czy karta SD jest uszkodzona czy nie";
+"问题2" = "2. Co zrobić, gdy dvr nie może się włączyć?";
+"答案2" = "(1) Sprawdź połączenie zasilacza ok czy nie\n(2) Sprawdź, czy jest karta, czy nie \n(3) Sprawdź, czy przycisk zasilania wciśnięty lub nie \n(4) Naciśnij reset";
+"问题3" = "3. Odtwarzanie wideo na komputerze pokazuje zatrzymanie lub pomijanie ramki?";
+"答案3" = "(1) Użyj formatu do formatowania karty TF \n(2) Sprawdź, czy karta TF jest oryginalna, czy nie";
+"问题4" = "4. Nagrywanie wideo nie jest czyste lub rozmyte?";
+"答案4" = "Oczyść soczewkę";
+"问题5" = "5. Odtwarzanie wideo na komputerze zostanie zablokowane lub nie będzie kontynuowane?";
+"答案5" = "(1) Najpierw proponuję włączyć odtwarzacz \n(2) zmienić na inną szybką kartę TF";
+"问题6" = "6.DVR nagrywanie wideo nie jest kontynuowane, nagrywaj tylko przez kilka sekund i zatrzymaj, a następnie zacznij nagrywać ponownie?";
+"答案6" = "Sprawdź, czy włączono funkcję wykrywania ruchu, Zamknij ją i spróbuj ponownie";
+"问题7" = "7. Dlaczego nie mogę połączyć się z WiFI?";
+"答案7" = "(1) Sprawdź, czy zainstalowano oprogramowanie do telefonu komórkowego \n(2) Sprawdź, czy dvr jest włączony czy nie, czy masz zasilanie czy nie \n(3) Jeśli powyższe nie pomogły, zresetuj urządzenie";
+
+"加载视频失败！" = "Nieudane wgranie filmu!";
+"该视频不可播放！" = "Ten film jest niemożliwy do odtworzenia!";
+
+//雄风
+"翻转" = "Odwrócić o 180°";
+"视频模式" = "Tryb wideo";
+"型号" = "Logo";
+

@@ -1,0 +1,129 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "47U-cn-JCb"; */
+"47U-cn-JCb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "73S-Ts-JzJ"; */
+"73S-Ts-JzJ.text" = "Label";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "7Qm-yK-hQu"; */
+"7Qm-yK-hQu.text" = "0:00";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "7Sw-pO-sX8"; */
+"7Sw-pO-sX8.text" = "0:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7hW-AD-oTp"; */
+"7hW-AD-oTp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "89C-n7-qaD"; */
+"89C-n7-qaD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AtD-eJ-2do"; */
+"AtD-eJ-2do.text" = "Label";
+
+/* Class = "UISegmentedControl"; BTS-r7-7s4.segmentTitles[0] = "First"; ObjectID = "BTS-r7-7s4"; */
+"BTS-r7-7s4.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; BTS-r7-7s4.segmentTitles[1] = "Second"; ObjectID = "BTS-r7-7s4"; */
+"BTS-r7-7s4.segmentTitles[1]" = "Second";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "CNc-VR-Lwk"; */
+"CNc-VR-Lwk.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FbK-5h-m8F"; */
+"FbK-5h-m8F.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FtE-Z9-QF4"; */
+"FtE-Z9-QF4.text" = "Label";
+
+/* Class = "UISegmentedControl"; GLL-Kh-K25.segmentTitles[0] = "First"; ObjectID = "GLL-Kh-K25"; */
+"GLL-Kh-K25.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; GLL-Kh-K25.segmentTitles[1] = "Second"; ObjectID = "GLL-Kh-K25"; */
+"GLL-Kh-K25.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gro-Nb-xHB"; */
+"Gro-Nb-xHB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I6H-A7-6pW"; */
+"I6H-A7-6pW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IL4-QO-HAq"; */
+"IL4-QO-HAq.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "M9Y-pX-GeG"; */
+"M9Y-pX-GeG.title" = "Title";
+
+/* Class = "UISegmentedControl"; NWT-yp-q1Z.segmentTitles[0] = "First"; ObjectID = "NWT-yp-q1Z"; */
+"NWT-yp-q1Z.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; NWT-yp-q1Z.segmentTitles[1] = "Second"; ObjectID = "NWT-yp-q1Z"; */
+"NWT-yp-q1Z.segmentTitles[1]" = "Second";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "OxA-am-xEE"; */
+"OxA-am-xEE.title" = "Item";
+
+/* Class = "UIViewController"; title = "关于"; ObjectID = "Qkp-rM-VrI"; */
+"Qkp-rM-VrI.title" = "关于";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T45-cT-Rdw"; */
+"T45-cT-Rdw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VJ4-2y-rvw"; */
+"VJ4-2y-rvw.text" = "Label";
+
+/* Class = "UISegmentedControl"; Vp4-Xq-jBW.segmentTitles[0] = "First"; ObjectID = "Vp4-Xq-jBW"; */
+"Vp4-Xq-jBW.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; Vp4-Xq-jBW.segmentTitles[1] = "Second"; ObjectID = "Vp4-Xq-jBW"; */
+"Vp4-Xq-jBW.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WZy-ps-nc7"; */
+"WZy-ps-nc7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YIa-on-tLz"; */
+"YIa-on-tLz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ca9-Po-tU7"; */
+"ca9-Po-tU7.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "关于"; ObjectID = "jeZ-vV-Xh0"; */
+"jeZ-vV-Xh0.title" = "关于";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "jgV-Kd-Kl6"; */
+"jgV-Kd-Kl6.title" = "Item";
+
+/* Class = "UISegmentedControl"; kTJ-aN-bjp.segmentTitles[0] = "First"; ObjectID = "kTJ-aN-bjp"; */
+"kTJ-aN-bjp.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; kTJ-aN-bjp.segmentTitles[1] = "Second"; ObjectID = "kTJ-aN-bjp"; */
+"kTJ-aN-bjp.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnL-Kt-mvC"; */
+"lnL-Kt-mvC.text" = "Label";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "m0F-4L-lJR"; */
+"m0F-4L-lJR.text" = "--";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rPM-6p-Sdo"; */
+"rPM-6p-Sdo.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "帮助"; ObjectID = "sJL-F8-Ba9"; */
+"sJL-F8-Ba9.title" = "帮助";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u2X-LM-xHq"; */
+"u2X-LM-xHq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x4A-bx-7of"; */
+"x4A-bx-7of.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xuR-7m-PD3"; */
+"xuR-7m-PD3.text" = "Label";
+
+/* Class = "UISegmentedControl"; z9G-bY-Kvt.segmentTitles[0] = "First"; ObjectID = "z9G-bY-Kvt"; */
+"z9G-bY-Kvt.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; z9G-bY-Kvt.segmentTitles[1] = "Second"; ObjectID = "z9G-bY-Kvt"; */
+"z9G-bY-Kvt.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zjN-QO-MW7"; */
+"zjN-QO-MW7.text" = "Label";
